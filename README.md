@@ -3,11 +3,11 @@ I am Tarun Kumar Dixit, a Third year computer engineering undergrad with a love 
  <h4> 💬LOYALTY IS A TWO WAY STREET, IF I AM ASKING IT FROM YOU, YOU ARE GETTING IT FROM ME💬 </h4>
 
  <h3>Languages that i know : <h3>
-  <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/cpp/cpp.png" height="100" margin="10">
+  <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/cpp/cpp.png" height="100">
   <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/php/php.png" height="100">
   <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/html/html.png" height="100">
   <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/c/c.png" height="100">
-  <img src="https://img.icons8.com/all/500/react-native.png" height="100">
+  <img src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" height="100">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" height="100">
 
 <h3>Database Management System : </h3>
