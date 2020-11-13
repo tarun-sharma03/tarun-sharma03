@@ -9,7 +9,8 @@ I am Tarun Kumar Dixit, a Third year computer engineering undergrad with a love 
   <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/c/c.png" height="100">
   <img src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" height="100">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" height="100">
-
+ <img src = "https://www.kindpng.com/picc/m/188-1882559_python-flask-hd-png-download.png" height = "100"> 
+ 
 <h3>Database Management System : </h3>
   <img src="https://download.logo.wine/logo/MySQL/MySQL-Logo.wine.png" height="100" widht="100">
 <h3>Projects :</h3>
