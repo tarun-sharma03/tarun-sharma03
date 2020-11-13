@@ -21,7 +21,7 @@ I am Tarun Kumar Dixit, a Third year computer engineering undergrad with a love 
 
 <div class="row">
   <div class="column">
-<a href="https://www.linkedin.com/in/tarun-kumar-dixit-751974170/"><img src="https://imageog.flaticon.com/icons/png/512/174/174857.png?size=1200x630f&pad=10,10,10,10&ext=png&bg=FFFFFFFF" height="50">
+<a href="https://www.linkedin.com/in/tarun-kumar-dixit-751974170/"><img src="https://www.flaticon.com/svg/static/icons/svg/61/61109.svg" height="50">
     </a>
   </div>
   
