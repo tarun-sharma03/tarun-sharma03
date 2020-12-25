@@ -16,6 +16,7 @@ I am Tarun Kumar Dixit, a Third year computer engineering undergrad with a love 
 <h3>Projects :</h3>
 <a href="https://github.com/tarun-sharma03/healthCard"><img src="https://github.com/HAC-2020/Johnnie-Coder/blob/master/assets/img/logo/logo.png" height="100"> </a>
 <h2><a href="https://themobilitysolution.in/">The Mobility Solution</a></h2>
+<h2><a href="https://github.com/tarun-sharma03/hotel-management">Awesome Rooms</a></h2>
 <br>
 <br>
 <h3> 📫 How to reach me:</h3>
