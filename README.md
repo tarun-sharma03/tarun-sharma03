@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am Tarun Kumar Dixit, a Third year computer engineering undergrad with a love for computers. 
+I am Tarun Kumar Dixit, a Final year computer engineering undergrad with a love for computers. 
  <h4> 💬LOYALTY IS A TWO WAY STREET, IF I AM ASKING IT FROM YOU, YOU ARE GETTING IT FROM ME💬 </h4>
 
  <h3>Languages that i know : <h3>
